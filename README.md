@@ -14,7 +14,7 @@
 1. To start using `securityscanner`, you need to clone the project to your local machine.
 
 ```bash
-git clone https://github.com/ildjes/securityscanner.git
+git clone https://github.com/ildjse/securityscanner.git
 ```
 2. Change your directory to securityscanner:
 
